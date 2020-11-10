@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "5faadbc1fdad3e0be813c01e"
+  },
+  "email": "paulo@teste.com",
+  "subject": "Orçamento",
+  "content": "Conteúdo da mensagem",
+  "createdAt": {
+    "$date": "2020-11-10T18:28:17.054Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-10T18:28:17.054Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5faadbe2fdad3e0be813c01f"
+  },
+  "email": "paulo@teste.com",
+  "subject": "Orçamento",
+  "content": "Conteúdo da mensagem",
+  "createdAt": {
+    "$date": "2020-11-10T18:28:50.565Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-10T18:28:50.565Z"
+  },
+  "__v": 0
+}]
